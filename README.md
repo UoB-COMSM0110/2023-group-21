@@ -7,7 +7,8 @@
 
 # Gaming list 
 1. Pong game
-2. Hangman
-3. Flappy Bird 
-4. Mario game
-5. Shooting game (Raiden)
+2. Run & Jump
+3. Hangman
+4. Flappy Bird 
+5. Mario game
+6. Shooting game (Raiden)
